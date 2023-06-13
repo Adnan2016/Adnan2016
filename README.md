@@ -7,8 +7,8 @@
 
 - 👀 I’m Adnan, working as Business Intelligence Engineer in Hamburg, Germany.
 - 💻 I’m tech enthusiats and love writing about it.
-- 👨‍🎓 I’m undergraduate student in my final year of Software Engineering!
-- 🌱 I’m currently learning about Data Science, Machine Learning & AI
+- 👨‍🎓 I’ve Master's Degree in Information Engineering!
+- 🌱 I’m continuously learning about Data Science, Machine Learning & AI
 - 💞 Interests: Writing, creating content, drawing and cricket
 - 💬 Ask me about Data Analysis, web dev & open source
 - 😄 Pronouns: he/him
